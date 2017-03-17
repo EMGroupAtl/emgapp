@@ -1,0 +1,13 @@
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/obj/Release/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/obj/Release/emgapp.App.xaml
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/obj/Release/emgapp.emgappPage.xaml
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/obj/Release/emgapp.App.xaml.g.cs
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/obj/Release/emgapp.emgappPage.xaml.g.cs
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/emgapp.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/obj/Release/emgapp.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/Xamarin.Forms.Core.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/Xamarin.Forms.Platform.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/Microsoft.Azure.Mobile.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/Microsoft.Azure.Mobile.Crashes.dll
+/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Release/Microsoft.Azure.Mobile.Analytics.dll
