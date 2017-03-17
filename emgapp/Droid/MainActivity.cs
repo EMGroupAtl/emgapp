@@ -30,10 +30,14 @@ namespace emgapp.Droid
 
 		protected override void OnStart()
 		{
+			base.OnStart();
 			MobileCenter.Start("ios=3e2330ef-d7b4-46ec-9d4c-40be4eecc107;" +
 				   "android={Your Android App secret here}",
 				   typeof(Analytics), typeof(Crashes));
-			base.OnStart();
+
+			#if ENABLE_TEST_CLOUD
+			Xamarin.Calabash.Start();
+			#endif
 		}
 	}
 }

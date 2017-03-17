@@ -51,6 +51,8 @@
 	-r \
 	/Users/vivianaranha/Documents/Delta/Github/emgapp/packages/Microsoft.Azure.Mobile.Crashes.0.7.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll \
 	-r \
+	/Users/vivianaranha/Documents/Delta/Github/emgapp/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll \
+	-r \
 	/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Debug/emgapp.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
@@ -336,6 +338,8 @@
 	/Users/vivianaranha/Documents/Delta/Github/emgapp/packages/Microsoft.Azure.Mobile.Crashes.0.7.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll \
 	-r \
 	/Users/vivianaranha/Documents/Delta/Github/emgapp/packages/Microsoft.Azure.Mobile.Crashes.0.7.0/lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll \
+	-r \
+	/Users/vivianaranha/Documents/Delta/Github/emgapp/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll \
 	-r \
 	/Users/vivianaranha/Documents/Delta/Github/emgapp/emgapp/bin/Debug/emgapp.dll \
 	--target-framework \

@@ -22,6 +22,10 @@ namespace emgapp.iOS
 			MobileCenter.Start("3e2330ef-d7b4-46ec-9d4c-40be4eecc107",
 				   typeof(Analytics), typeof(Crashes));
 
+			#if ENABLE_TEST_CLOUD
+			Xamarin.Calabash.Start();
+			#endif
+
 			return base.FinishedLaunching(app, options);
 		}
 	}
