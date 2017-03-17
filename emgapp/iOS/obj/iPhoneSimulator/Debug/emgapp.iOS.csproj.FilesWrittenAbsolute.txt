@@ -31,3 +31,5 @@
 /Users/vivianaranha/Documents/Delta/Github/emgapp/iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll
 /Users/vivianaranha/Documents/Delta/Github/emgapp/iOS/bin/iPhoneSimulator/Debug/emgapp.dll
 /Users/vivianaranha/Documents/Delta/Github/emgapp/iOS/bin/iPhoneSimulator/Debug/emgapp.dll.mdb
+/Users/vivianaranha/Documents/Delta/Github/emgapp/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/vivianaranha/Documents/Delta/Github/emgapp/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
