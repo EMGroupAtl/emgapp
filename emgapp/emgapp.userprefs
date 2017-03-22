@@ -1,6 +1,9 @@
 ﻿<Properties StartupConfiguration="{F5333C1C-2052-4903-9E6C-D282E157B392}|Default">
   <MonoDevelop.Ide.ItemProperties.emgapp.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="emgapp/App.xaml">
+    <Files>
+      <File FileName="emgapp/App.xaml" Line="5" Column="27" />
+    </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
